@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "Geofire",
-    "slug": "geofire",
+    "name": "Firebase Test",
+    "slug": "firebaseTest",
     "privacy": "public",
     "sdkVersion": "32.0.0",
     "platforms": [
